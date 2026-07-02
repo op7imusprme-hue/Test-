@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 1234
 commit test 
 commit test 1
+=======
+Prosta test 
+
+
+>>>>>>> d7f756539897fbe11c59d64c4cd33b34647a7545
 1234 
 868
 add line
